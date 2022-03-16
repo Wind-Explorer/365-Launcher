@@ -1,4 +1,4 @@
-# Office-Recreated
+# 365 Launcher
 Description:
 My first ever app that I made that is supposed to be like Microsoft Office
 
